@@ -1,4 +1,8 @@
 <?php
+// release v1.1
+$_['entry_profile']          = 'Perfil:';
+
+
 // Heading
 $_['heading_title']          = 'Produtos'; 
 

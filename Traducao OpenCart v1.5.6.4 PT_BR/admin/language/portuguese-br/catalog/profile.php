@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 $_['heading_title'] = 'Perfis';
 
