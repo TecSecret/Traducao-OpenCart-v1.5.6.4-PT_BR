@@ -1,3 +1,15 @@
+V1.2
+
+- ADD line portuguese-br
+- ADD support pav theme admin interface
+- ADD module/pavautosearch.php
+- ADD module/pavcustom.php
+- ADD module/pavsocialsidebar.php
+- ADD module/pavads.php
+
+
+
+___________________
 V1.1 - 31/07/2014
 
 - FIX encoding error admin
